@@ -1,0 +1,12 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "valheim-webgl",
+    "scripts":  {
+                    "start":  "node tools/serve.mjs"
+                },
+    "type":  "module",
+    "engines":  {
+                    "node":  "\u003e=20"
+                },
+    "private":  true
+}
